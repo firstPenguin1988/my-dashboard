@@ -1,0 +1,28 @@
+div{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	background-color: #b1b1b1;
+}
+
+h2{
+	color: black;
+}
+
+h1{
+	color: black;
+	text-align: center;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	padding: 20px;
+	background-color: #f2f5fa;
+    margin: 30px;
+	border-radius: 20px;
+}

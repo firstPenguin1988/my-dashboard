@@ -1,0 +1,26 @@
+.content2{
+	display: flex;
+	flex-direction: column;
+	flex-grow: 0;
+	text-align: center;
+	justify-content: space-around;
+}
+
+.payment{
+	display: flex;
+	text-align: center;
+	margin-right: 30px;
+}
+
+.payment1{
+	background-color: #f2f5fa;
+	flex-grow: 1;
+	margin: 10px;
+	border-radius: 20px;
+}
+.payment2{
+	background-color: #f2f5fa;
+	flex-grow: 1;
+	margin: 10px;
+	border-radius: 20px;
+}

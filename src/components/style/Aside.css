@@ -1,0 +1,83 @@
+.aside{
+	background-color: #f2f5fa;
+	text-align: center;
+	flex-grow: 2;
+	border-radius: 20px;
+	border: 30px;
+	display: flex;
+	flex-direction: column;
+}
+
+.top{
+	display: flex;
+	flex-direction: column;
+}
+
+.first{
+	display: flex;
+	flex-direction: row;
+	flex-grow: 1;
+}
+
+.first-left{
+	flex-grow: 2;
+}
+
+.first-right{
+	flex-grow: 1;
+	padding-top: 16px;
+}
+
+.second{
+	background-color: thi;
+	flex-grow: 1;
+}
+
+.third{
+	display: flex;
+	flex-grow: 1;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+.middle{
+
+	flex-grow: 1;
+}
+
+.fifth{
+	flex-grow: 1;
+	display: flex;
+	flex-direction: column;
+}
+.months{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	flex-grow: 1;
+}
+
+.sixth{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-grow: 2;
+}
+
+.sixth-main{
+	display: flex;
+}
+
+.six-plan{
+	background-color: black;
+	flex-grow: 1;
+	border-radius: 20px 0 0 20px;
+	margin: 10px 0 10px 20px;
+}
+.six-percent{
+	background-color: black;
+	flex-grow: 1;
+	border-radius: 0 20px 20px 0;
+	padding-top: 10px;
+	margin: 10px 20px 10px 0;
+}
